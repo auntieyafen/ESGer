@@ -1,0 +1,12 @@
+{
+  "name": "ESG_consultant",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhiyuuuu/ESG_consultant.git",
+  "author": "羅采蓁 <b09705059@ntu.edu.tw>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "d3": "3"
+  }
+}

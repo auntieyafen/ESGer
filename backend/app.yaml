@@ -1,0 +1,8 @@
+#app.yaml
+runtime: python39
+
+env_variables:
+  CLOUD_SQL_USERNAME: "esgg"
+  CLOUD_SQL_PASSWORD: "esgg"
+  CLOUD_SQL_DATABASE_NAME: "ESG"
+  CLOUD_SQL_CONNECTION_NAME: "tw-rd-de-julia:asia-east1:esg-consultant"
